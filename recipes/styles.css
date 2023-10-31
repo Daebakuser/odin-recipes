@@ -1,0 +1,178 @@
+body{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+h1{
+    text-align: center;
+}
+
+.home{
+    border-radius: 20px;
+    width: 40px;
+    padding: 15px;
+    text-align: center;
+}
+
+div a{
+    text-decoration: none;
+    font-weight: bold;
+}
+
+figure{
+    text-align: center;
+}
+
+img{
+    border-radius: 50px;
+    width: 400px;
+    height: 300px;
+}
+
+p,ol,ul{
+    font-size: 20px;
+
+}
+
+.b-radius{
+    border-radius: 20px;
+}
+
+.center{
+    text-align: center;
+    margin: 0;
+}
+
+.shift{
+    margin-left: 30px;
+}
+
+p{
+    margin: 0;
+}
+
+#page-top{
+    text-decoration: none;
+    font-size: 20px;
+    color:#000000;
+    text-transform: capitalize;
+    font-style: italic;
+    font-weight: bold;
+}
+
+footer{
+    text-align: center;
+}
+
+/*Color styling for each html page*/
+
+/*pizza page styling*/
+.pizza{
+    /*body*/
+    background-color: #99cc00;
+}
+
+.pi-home,.greenish{
+    background-color: #ecffb3;
+    border: 5px groove #ccff33;
+}
+
+#pi-home{
+    color: #739900;
+}
+
+#pi-img{
+    border: 7px groove #ccff33;
+}
+
+/* biscuit page styling*/
+.biscuits{
+    /*body*/
+    background-color: #ff4d4d;
+}
+
+.b-home,.strawberry{
+    background-color: #ffcccc;
+    border: 5px groove hsl(0, 100%, 75%);
+}
+#b-home{
+    color: #ff6666;
+}
+
+#b-img{
+    border: 7px groove #ff8080;
+}
+
+/*pudding page styling*/
+.pudding{
+    /*body*/
+    background-color: #804000;
+}
+
+.pud-home,.chocolate{
+    background-color: #ffa64d;
+    border: 5px groove #cc6600;
+}
+
+#pud-home{
+    color: #663300;
+}
+
+#pud-img{
+    border: 7px groove #cc6600;
+}
+
+/*pancakes page styling*/
+.pancakes{
+    /*body*/
+    background-color: #660066;
+}
+
+.pa-home,.cake{
+    background-color: #ff00ff;
+    border: 5px groove #cc00cc;
+}
+
+#pa-home{
+    color: #660066;
+}
+
+#pa-img{
+    border: 7px groove #cc00cc;
+}
+
+/*croissants page styling*/
+.croissants{
+    /*body*/
+    background-color: #cc0000;
+}
+
+.cro-home,.cherry{
+    background-color: #ff4d4d;
+    border: 5px groove #ffcc00;
+}
+
+#cro-home{
+    color: #ffcc00;
+}
+
+#cro-img{
+    border: 7px groove #ffcc00;
+}
+
+/*sloppyjoe page styling*/
+.sloppyjoe{
+    /*body*/
+    background-color: #ffffcc;
+}
+
+.hot-home,.sloppy{
+    background-color: #996633;
+    border: 5px groove #ff9966;
+}
+
+#hot-home{
+    color: #ff9966;
+}
+
+#hot-img{
+    border: 7px groove #ff9966;
+}
