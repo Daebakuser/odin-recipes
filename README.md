@@ -11,3 +11,5 @@ This project should also be able to showcase my skills in creating user-friendly
 interfaces and organizing information in a coherent and visually appealing manner.
 
 ...It's all about making recipes easy to find and fun to explore...
+
+To explore further [click here](https://daebakuser.github.io/odin-recipes/)
